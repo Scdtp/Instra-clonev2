@@ -25,8 +25,8 @@
             <div class="container">
                 <a class="navbar-brand d-flex" href="{{ url('/') }}">
                     <!-- {{ config('app.name', 'Laravel') }} -->
-                    <div><img src="/svg/Wall-E_180x180.png" style="height: 80px; width: 80px; border-right: 2px solid #333" alt="LOGO"></div>
-                    <div style="display: flex; font-size: 36px; align-items: center; padding: 15px;"><strong>WALL-E</strong></div>
+                    <div><img src="/svg/pexels-brett-sayles-15075137.jpg" style="height: 80px; width: 80px; border-right: 2px solid #333" alt="LOGO"></div>
+                    <div style="display: flex; font-size: 36px; align-items: center; padding: 15px;"><strong>Dog-Instra</strong></div>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
