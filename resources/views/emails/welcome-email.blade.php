@@ -1,5 +1,5 @@
 <x-mail::message>
-# Welcome to Hans Obena Laravel Full Stack Website 
+# Welcome to Instagram Clone Laravel Full Stack Website 
 
 ## Enjoy!
 
